@@ -21,3 +21,4 @@ int convert_array(int * data, int len)
 	}
 	return nTotal;
 }
+//add new
