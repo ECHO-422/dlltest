@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DllTest.cpp
+  myDLL.cpp
+  正在生成代码...
+    正在创建库 D:\研二\动态库工程\DllTest\Debug\DllTest.lib 和对象 D:\研二\动态库工程\DllTest\Debug\DllTest.exp
+  DllTest.vcxproj -> D:\研二\动态库工程\DllTest\Debug\DllTest.dll
